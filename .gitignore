@@ -1,3 +1,6 @@
-﻿backend/venv/
-__pycache__/
+﻿backend/venv/Lib/
+backend/venv/Scripts/
+backend/venv/Include/
+backend/venv/pyvenv.cfg
+**/__pycache__/
 *.pyc
